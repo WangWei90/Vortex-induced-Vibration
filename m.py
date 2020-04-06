@@ -1,8 +1,4 @@
-## =================================================================== ##
-#  this is file mef-calor1d.py, created at 30-May-2019                #
-#  maintained by Gustavo Rabello dos Anjos                              #
-#  e-mail: gustavo.rabello@gmail.com                                    #
-## =================================================================== ##
+
 
 import numpy as np
 import meshio
